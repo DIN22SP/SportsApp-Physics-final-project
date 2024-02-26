@@ -1,8 +1,7 @@
 # SportsApp - Physics final project (ID00CS50-3003)
 
-**Author:** Shovan Kumar Das  
+**Name:** Shovan Kumar Das  
 **Email:** t2dash00@students.oamk.fi
-**Github:** @shovoncse
 
 ## Calculation Results:
 - Average speed: 1.6782391458590495 m/s
